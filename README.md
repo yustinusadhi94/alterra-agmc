@@ -22,3 +22,9 @@ Objectives:
 
 ## Day 4
 - Implement Integration Testing
+
+## Day 5
+- None
+
+## Day 6
+- Refactor and implement Hexagonal Architecture
