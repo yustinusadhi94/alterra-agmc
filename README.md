@@ -28,3 +28,6 @@ Objectives:
 
 ## Day 6
 - Refactor and implement Hexagonal Architecture
+
+## Day 7
+- Docker
