@@ -3,7 +3,7 @@ services:
 # namain sendiri
   backend:
     build:
-      dockerfile: docker/Dockerfile
+      dockerfile: Dockerfile
       context: .
     image: 'alterra-agmc-day-7-revision:latest'
     ports:
