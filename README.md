@@ -31,3 +31,6 @@ Objectives:
 
 ## Day 7
 - Docker
+
+## Day 8
+- AWS and RDS deployment
