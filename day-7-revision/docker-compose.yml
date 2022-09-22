@@ -1,0 +1,10 @@
+version: '3'
+services:
+# namain sendiri
+  backend:
+    build:
+      dockerfile: docker/Dockerfile
+      context: .
+    image: 'alterra-agmc-day-7-revision:latest'
+    ports:
+      - '8080:8080'
